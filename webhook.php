@@ -1,5 +1,5 @@
 <?php
-$token = "EAADH02tSIZBkBAGLQZAKaKHALVMLZCQa1vZCneIAcX1CJR7weXEJrf15vWOVjseZA8FNRntE6ebdTs9G1cjtslFUVBxvBLdSht61Qv4rkNrcjrUuAb1vUw0tNtvh9cxNgv585P5rJDSQgKm8cr0UnMpjhq405GyHz2TOeFOoMboXM438zJxRBJ7kJY8A0vt4ZD";
+$token = "##################";
 
 $json_string = file_get_contents("php://input");
 $fb_message = json_decode($json_string);
